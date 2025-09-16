@@ -14,7 +14,7 @@ The model obtained by analyzing CS2023. This was extracted by ssLDA [ssLDA] and 
 * settings.conf  
 The parameters used by LDA.
 * word.csv  
-3304 words in CS2023 BOK.
+4782 words in CS2023 BOK.
 
 ## PROCEDURE
 
