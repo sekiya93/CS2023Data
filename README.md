@@ -1,9 +1,10 @@
 # CS2023Data
 
-
 ## OBJECTIVE
 
-This is a package of scripts and data for analysing a text based on the Body of Knowledge (BOK) of CS2023 [CS2023]. Outputs consist of the rates in 17 Knowledge Area (KA)s of CS2023.
+This is a package of scripts and data for analysing a text based on the Body of Knowledge (BOK) of Computer Science Curriculum 2023 (CS2023) [CS2023]. Outputs consist of the rates in 17 Knowledge Area (KA)s of CS2023.
+
+P.S.: We previously released CS2013Data (https://github.com/sekiya93/CS2013Data) for analysis on the BOK for the Computer Science Curriculum 2013 (CS2013) using LDA. CS2023Data is a modified version of CS2013Data.
 
 ## FILE
 
